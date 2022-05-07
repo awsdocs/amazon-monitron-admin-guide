@@ -1,11 +1,7 @@
-## My Project
+## Amazon Monitron IT Manager's Guide
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+A rendered HTML version of this guide is available at:
+https://docs.aws.amazon.com/Monitron/latest/admin-guide/admin_what-is-monitron.html
 
 ## Security
 
