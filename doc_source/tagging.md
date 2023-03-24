@@ -5,7 +5,7 @@ A *tag* is a key\-value pair that you can use to categorize your projects\. For 
 Use tags to:
 + Organize your projects\. You can search and filter by tag\. For example, you could add tags such as ‘test lab’ or ‘paint shop' to easily find those projects\. 
 + Identify and organize your AWS resources\. Many AWS services support tagging, so you can assign the same tag to resources in different services to indicate that the resources are related\. For example, you can tag a project and the Amazon Simple Storage Service \(Amazon S3\) bucket that stores related data with the same tag\.
-+ Control access to your resources\. You can use tags in AWS Identity and Access Management \(IAM\) polices that control access to Amazon Monitron projects\. You can attach these policies to an IAM role or user to enable tag\-based access control\. For more information, see [Controlling access using tags](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_tags.html) in the *IAM User Guide*\. 
++ Control access to your resources\. You can use tags in AWS Identity and Access Management \(IAM\) policies that control access to Amazon Monitron projects\. You can attach these policies to an IAM role or user to enable tag\-based access control\. For more information, see [Controlling access using tags](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_tags.html) in the *IAM User Guide*\. 
 
 Each tag key must be unique within a project\. 
 
